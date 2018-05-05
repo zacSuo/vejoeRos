@@ -1,0 +1,10 @@
+# goal
+uint32 push_up_count
+---
+# result
+duration time_used
+---
+#feedback
+duration time_elapsed
+uint32 finish_count
+uint32 remain_count
